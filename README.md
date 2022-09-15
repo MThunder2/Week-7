@@ -1,2 +1,2 @@
-# Week-7
-Introduction to MySQL 
+# Week-7 thru 11
+MySQL Coding Project
